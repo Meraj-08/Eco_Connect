@@ -1,4 +1,3 @@
-
 # 🌍 Eco-Connect  
 
 ## 📌 Overview  
@@ -77,7 +76,6 @@ We welcome contributions! Feel free to submit pull requests or raise issues.
 (Include license details here, e.g., MIT License.)  
 
 ## 🔗 Links  
-- **GitHub Repository**: [https://github.com/Shubham-Bixt/eco-connect]  
 - **Demo Video**: [https://www.youtube.com/watch?v=ilOCAAnTcSE]  
 
 ---
