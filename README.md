@@ -1,4 +1,8 @@
 # 🌍 Eco-Connect  
+###  GDSC Hackathon Submission
+
+## 📌 Overview  
+Developed as my first Flutter project for the **Google Developer Student Clubs (GDSC) Hackathon**, Eco-Connect is a smart waste management platform that bridges the gap between citizens, waste collectors, and recycling facilities using AI and gamification. This project represents my journey into mobile development and sustainable tech solutions.
 
 ## 📌 Overview  
 Eco-Connect is a smart waste management platform that bridges the gap between citizens, waste collectors, and recycling facilities using AI and gamification. It provides an innovative, scalable, and user-friendly solution to tackle plastic waste and promote sustainability.  
@@ -33,23 +37,18 @@ India generates over **62 million tons** of waste annually, with a large portion
 ✅ **EcoAI Assistant** - 24/7 personalized sustainability guidance.  
 ✅ **Scalable & Adaptive** - Cloud-based architecture enables rapid expansion.  
 
-## 🏗️ Architecture
-![Architecture](assets/git/architecture.png)
-
 ## 📱 App Flow
 ![App Flow](assets/git/app_pages.png)
+
+## 🏗️ Architecture
+![Architecture](assets/git/architecture.png)
 
 ## 📸 MVP Snapshots  
 - Waste Classifier  
 - Home Page  
 - Gemini-Powered Eco-AI  
 - Drive Creation Page  
-- Recycling Center Finder  
-
-## 🏆 Future Development Plans  
-- **Carbon Footprint Tracking**  
-- **Enhanced Gamification**  
-- **Partnerships with Eco-Friendly Brands**  
+- Recycling Center Finder 
 
 ## 📥 Installation  
 1. Clone the repository:  
@@ -77,5 +76,4 @@ We welcome contributions! Feel free to submit pull requests or raise issues.
 
 ## 🔗 Links  
 - **Demo Video**: [https://www.youtube.com/watch?v=ilOCAAnTcSE]  
-
 ---
