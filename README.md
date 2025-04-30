@@ -1,4 +1,5 @@
-# 🌍 Eco-Connect  
+# 🌍 Eco-Connect
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ###  GDSC Hackathon Submission
 
 ## 📌 Overview  
@@ -71,8 +72,8 @@ India generates over **62 million tons** of waste annually, with a large portion
 ## 🤝 Contributing  
 We welcome contributions! Feel free to submit pull requests or raise issues.  
 
-## 📜 License  
-(Include license details here, e.g., MIT License.)  
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE] file for full details. 
 
 ## 🔗 Links  
 - **Demo Video**: [https://www.youtube.com/watch?v=ilOCAAnTcSE]  
